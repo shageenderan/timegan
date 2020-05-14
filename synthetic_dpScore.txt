@@ -1,0 +1,2 @@
+Discriminative Score - Mean: 0.1033, Std: 0.0
+Predictive Score - Mean: 0.0037, Std: 0.0
